@@ -9,7 +9,9 @@ Here's how it works:
 4. Finally, Gradio, a user-friendly UI tool, is fastest way to deploy your machine learning model with a friendly web interface so that anyone can use it, anywhere!
 
 The applications of Speech Diarization are vast like:
-✅ Transcription Services: Efficiently transcribe multi-speaker interviews, meetings, and podcasts, saving time and resources.
-✅ Market Research: Analyze customer interactions, focus groups, and call center recordings to gain valuable insights into consumer behavior and preferences.
-✅ Legal and Compliance: Facilitate the review process for legal cases, extracting pertinent information from recorded depositions, hearings, and trials.
-✅ Content Creation: Enhance the editing process for podcasts, videos, and interviews, allowing you to isolate specific speakers or segments effortlessly.
+1. Transcription Services: Efficiently transcribe multi-speaker interviews, meetings, and podcasts, saving time and resources.
+2. Market Research: Analyze customer interactions, focus groups, and call center recordings to gain valuable insights into consumer behavior and preferences.
+3. Legal and Compliance: Facilitate the review process for legal cases, extracting pertinent information from recorded depositions, hearings, and trials.
+4. Content Creation: Enhance the editing process for podcasts, videos, and interviews, allowing you to isolate specific speakers or segments effortlessly.
+
+This project exemplifies the power of AI in audio analysis and transcription, making complex tasks simple and efficient.
