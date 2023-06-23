@@ -15,3 +15,6 @@ The applications of Speech Diarization are vast like:
 4. Content Creation: Enhance the editing process for podcasts, videos, and interviews, allowing you to isolate specific speakers or segments effortlessly.
 
 This project exemplifies the power of AI in audio analysis and transcription, making complex tasks simple and efficient.
+
+Try it for yourself on Hugging Face:
+https://huggingface.co/spaces/Muyzaf/Speech-Diarization
